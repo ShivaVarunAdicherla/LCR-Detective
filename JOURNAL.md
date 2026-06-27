@@ -24,5 +24,6 @@ Product is a really important factor, If I want to achieve proper impedance meas
 And now finally, I've also encountered some stability issues with the feedback loop, leading to some resonance/ringing.I'll end this
 session here, and I'm hoping to make more progress in the next session.
 
+![LTSpice Simulation showing AC analysis](./journal_img/J1.png) 
 
 **Total time spent: 1 Hour 1 Minute**
