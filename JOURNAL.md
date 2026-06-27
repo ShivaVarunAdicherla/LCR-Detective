@@ -7,6 +7,8 @@ created_at: "2026-06-27"
 
 # June 27: Exploring Impedance measurement stratergies (Auto balancing Bridge)
 
+== [Lapse Link](https://lapse.hackclub.com/timelapse/SBadqlypKxuB)
+
 I've checked/explored the functioning of the auto-balancing bridge method, and it really seems that the frequency at which I
 can/will be able to trust the impedance measurements is going to be really low, unless I splurge on a really high-end OPA.
 So far it seems that the generic OPA from Gansil (GS4580-DR) will get me close to around 100kHz, with me feeling that the range
